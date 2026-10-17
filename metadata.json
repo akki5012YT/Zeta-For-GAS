@@ -1,0 +1,6 @@
+{
+  "name": "Zeta to GAS Studio",
+  "description": "Zeta風AIキャラクターの作成・保存・検索とGoogle Apps Script (GAS) 移植コード生成ツール",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
